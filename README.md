@@ -1,6 +1,6 @@
 # 全球云官网
 
-全球云官网入口：[点击进入全球云官网](https://aff.kitdude.com/quanqiu)
+全球云官网入口：[点击进入全球云官网](https://aff.kitdude.com/quanqiu?utm_source=github.com%2FPlane009%2Fquanqiuyun&utm_content=article_inline)
 
 全球云提供 BGP 月付套餐和永久有效的不限时流量包，月付 ¥20 起，月流量从 120 GB 到 1.5 TB；不限时流量包提供 100 GB、400 GB 和 800 GB 三档。页面强调 BGP 智能优化、专线出口、全节点 1 倍率、Shadowsocks 协议和多设备不限。
 
@@ -49,7 +49,7 @@
 
 ### 全球云官网地址是什么？
 
-全球云官网入口为：[https://aff.kitdude.com/quanqiu](https://aff.kitdude.com/quanqiu)。
+全球云官网入口为：[https://aff.kitdude.com/quanqiu](https://aff.kitdude.com/quanqiu?utm_source=github.com%2FPlane009%2Fquanqiuyun&utm_content=article_inline)。
 
 ### 全球云不限时流量会过期吗？
 
@@ -65,4 +65,4 @@
 
 ## 进入全球云官网
 
-[点击进入全球云官网，选择月付或不限时套餐](https://aff.kitdude.com/quanqiu)
+[点击进入全球云官网，选择月付或不限时套餐](https://aff.kitdude.com/quanqiu?utm_source=github.com%2FPlane009%2Fquanqiuyun&utm_content=article_inline)
